@@ -1,0 +1,3 @@
+this is first version of my project
+
+i want this to go in commit 2
